@@ -1,6 +1,6 @@
-- I’m @moodmessages I have a medium amount of knowledge about html5 coding and currently studying rust/haxen
+- I’m @moodmessages I have a beginner amount of knowledge about html5 coding and currently studying game design
 - my socials are instagram @mood_messages, twitter @mood_messages and even reddit u/moodmessages
-- lets try to code lol stress sheeeeesh
+-
 
 <!---
 moodmessages/moodmessages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
